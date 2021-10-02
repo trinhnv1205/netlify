@@ -1,1 +1,0 @@
-window.location.href = "http://45.32.102.138";
